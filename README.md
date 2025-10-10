@@ -1,4 +1,4 @@
-# depth-estimation-demo
+# depth-estimation-practice-only
 
 ### ## Overview
 #### This notebook demonstrates depth estimation using the Monodepth2 model by Niantic Labs. 
