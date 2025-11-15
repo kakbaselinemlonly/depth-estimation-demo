@@ -18,3 +18,5 @@ It also contains my own refactored code for data loading, preprocessing, and dep
 This project was part of my personal learning process to understand depth estimation pipelines.  
 Some sections were guided by open-source examples and simplified for readability and experimentation.
 
+### License
+This project is released under the MIT License.
